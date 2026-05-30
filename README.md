@@ -1,6 +1,7 @@
 # 坦克大战 (Tank Battle)
 
 A classic tank battle game built with HTML5 Canvas, inspired by the NES game Battle City.
+lrm-test
 
 ## How to Play
 
